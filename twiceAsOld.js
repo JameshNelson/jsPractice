@@ -32,6 +32,7 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
         ageCounter += 1
       }
     }
+}
 
     //Better code example 
 
